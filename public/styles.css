@@ -823,7 +823,7 @@ img {
 .map-backdrop::before {
   position: absolute;
   inset: 0;
-  background: url("/assets/home-map.png?v=6") calc(100% + var(--map-shift)) var(--map-y) / var(--map-width) auto no-repeat;
+  background: url("assets/home-map.png?v=6") calc(100% + var(--map-shift)) var(--map-y) / var(--map-width) auto no-repeat;
   content: "";
   filter: saturate(0.58) brightness(0.78) contrast(0.96);
   transform: scale(1);
@@ -6941,7 +6941,7 @@ select:focus {
 }
 
 .cinematic-home-stage .map-backdrop::before {
-  background: url("/assets/home-map.png?v=8") calc(100% + var(--map-shift)) var(--map-y) / var(--map-width) auto no-repeat;
+  background: url("assets/home-map.png?v=8") calc(100% + var(--map-shift)) var(--map-y) / var(--map-width) auto no-repeat;
   filter: grayscale(0.26) saturate(0.5) brightness(0.64) contrast(0.98);
   opacity: 0.94;
 }

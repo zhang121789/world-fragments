@@ -1,4 +1,47 @@
 const app = document.getElementById("app");
+const scriptBasePath = (() => {
+  const script = document.currentScript;
+  if (!script) return "";
+  const pathname = new URL(script.src, location.href).pathname;
+  return pathname.replace(/\/[^/]*$/, "");
+})();
+const isStaticPagesMode = scriptBasePath.endsWith("/public") || location.hostname.endsWith("github.io");
+const siteBasePath = scriptBasePath.endsWith("/public") ? scriptBasePath.slice(0, -7) : "";
+
+function publicPath(value) {
+  if (!value || /^(https?:|data:|blob:)/i.test(value)) return value;
+  const clean = String(value).replace(/^\/+/, "");
+  if (scriptBasePath.endsWith("/public")) return `${scriptBasePath}/${clean}`;
+  return `/${clean}`;
+}
+
+function sitePath(value) {
+  const clean = String(value || "").replace(/^\/+/, "");
+  return siteBasePath ? `${siteBasePath}/${clean}` : `/${clean}`;
+}
+
+function normalizeStaticMediaUrl(value) {
+  if (typeof value !== "string") return value;
+  if (value.startsWith("/assets/") || value.startsWith("/uploads/")) return publicPath(value);
+  return value;
+}
+
+function normalizeSiteMediaUrls(site) {
+  if (!site || !isStaticPagesMode) return site;
+  const visit = (value) => {
+    if (Array.isArray(value)) return value.forEach(visit);
+    if (!value || typeof value !== "object") return;
+    Object.keys(value).forEach((key) => {
+      if (typeof value[key] === "string") {
+        value[key] = normalizeStaticMediaUrl(value[key]);
+      } else {
+        visit(value[key]);
+      }
+    });
+  };
+  visit(site);
+  return site;
+}
 
 const state = {
   site: null,
@@ -15,7 +58,7 @@ const state = {
   homeEffectCleanup: null
 };
 
-const fallbackImage = "/assets/new-zealand-1.png";
+const fallbackImage = publicPath("/assets/new-zealand-1.png");
 const STATIC_ASSET_VERSION = "20260626";
 const HOME_TRANSITION_DURATION = 1050;
 const REDUCED_MOTION_TRANSITION_DURATION = 260;
@@ -23,8 +66,8 @@ const DEFAULT_CAPTION_HEIGHT = 116;
 const MIN_CAPTION_HEIGHT = 96;
 const MAX_CAPTION_HEIGHT_RATIO = 0.32;
 const countryRegionMapAssets = {
-  CN: "/assets/china-regions-paths.json",
-  NZ: "/assets/new-zealand-regions-paths.json"
+  CN: publicPath("/assets/china-regions-paths.json"),
+  NZ: publicPath("/assets/new-zealand-regions-paths.json")
 };
 const countryRegionNameFallbacks = {
   NZ: {
@@ -309,9 +352,11 @@ function setDocumentTitle(text) {
 }
 
 async function loadSite() {
-  const response = await fetch("/api/site", { cache: "no-store" });
+  const url = isStaticPagesMode ? sitePath("/data/site.json") : "/api/site";
+  const response = await fetch(url, { cache: "no-store" });
   if (!response.ok) throw new Error("读取网站数据失败。");
   state.site = await response.json();
+  normalizeSiteMediaUrls(state.site);
 }
 
 function showHome() {
@@ -711,7 +756,7 @@ function footprintCountryListItemTemplate(country) {
 
 async function loadWorldMapPaths() {
   if (state.worldMapPaths) return state.worldMapPaths;
-  const response = await fetch(`/assets/world-countries-paths.json?v=${STATIC_ASSET_VERSION}`, { cache: "force-cache" });
+  const response = await fetch(`${publicPath("/assets/world-countries-paths.json")}?v=${STATIC_ASSET_VERSION}`, { cache: "force-cache" });
   if (!response.ok) throw new Error("world map failed");
   state.worldMapPaths = await response.json();
   return state.worldMapPaths;
@@ -2285,7 +2330,7 @@ async function initHomeCoverGlobe(destinations) {
   state.homeGlobeCleanup = cleanup;
 
   try {
-    const response = await fetch("/assets/world-countries-paths.json", { cache: "force-cache" });
+    const response = await fetch(publicPath("/assets/world-countries-paths.json"), { cache: "force-cache" });
     if (response.ok) {
       const world = await response.json();
       worldSegments = (world.countries || [])
