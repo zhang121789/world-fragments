@@ -1,0 +1,2827 @@
+{
+  "theme": {
+    "title": "世界碎片",
+    "tagline": "世界是完整的\n我们在路上，收集碎片",
+    "subtitle": "风景、人物、故事与偶然相遇\n都被收藏成独一无二的记忆碎片",
+    "about": ""
+  },
+  "playback": {
+    "duration": 5200,
+    "transition": "fade"
+  },
+  "destinations": [
+    {
+      "id": "xinjiang",
+      "name": "新疆",
+      "englishName": "Xinjiang",
+      "country": "中国 · 新疆",
+      "color": "#c88a52",
+      "visible": true,
+      "coords": {
+        "x": 69.8,
+        "y": 38.6
+      },
+      "cover": "/uploads/web/1781588989276-cd9d275c52-q72-1600.jpg",
+      "labelOffset": {
+        "x": -54,
+        "y": -22
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "西安",
+          "text": "新疆的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "兰州",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "张掖",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        },
+        {
+          "id": "stage-mqg628o9-ekai1",
+          "name": "敦煌"
+        },
+        {
+          "id": "stage-mqg6293h-tjuzp",
+          "name": "哈密"
+        },
+        {
+          "id": "stage-mqg629we-l6n7m",
+          "name": "乌鲁木齐"
+        },
+        {
+          "id": "stage-mqgku48z-19q91",
+          "name": "喀纳斯"
+        },
+        {
+          "id": "stage-mqgku6d7-fq4p9",
+          "name": "库尔勒"
+        },
+        {
+          "id": "stage-mqgku6jn-810x1",
+          "name": "西宁"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqg82vwz-i5eft",
+          "src": "/uploads/web/1781588981261-8c77180b9e-q82-2200-q72-1600.jpg",
+          "caption": "张掖七彩丹霞地貌，红色砂岩长期风华和流水侵蚀导致的这种地貌。当天特别幸运，刚刚下过雨，颜色要更鲜艳。",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 163
+        },
+        {
+          "id": "photo-mqg82pwi-cshq3",
+          "src": "/uploads/optimized/1781588973327-ec4d741b0c-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 96
+        },
+        {
+          "id": "photo-mqg82pwi-yfpl8",
+          "src": "/uploads/web/1781588973444-f8748706ec-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg82pwi-u8a36",
+          "src": "/uploads/web/1781588973469-140a291df0-q82-2200-q72-1600.jpg",
+          "caption": "敦煌月牙泉成群结队的骆驼",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 96
+        },
+        {
+          "id": "photo-mqg82pwi-umt7v",
+          "src": "/uploads/optimized/1781588973469-1bde48590f-q82-2200.jpg",
+          "caption": "第一次看到沙漠，很震撼， 没有想过一个城市能和沙漠这么融合，仿佛在电影世界里面。",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-z9c38",
+          "src": "/uploads/web/1781588973470-eaaf560ce1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-214u5",
+          "src": "/uploads/web/1781588989257-28234545ad-q72-1600.jpg",
+          "caption": "月牙泉被誉为沙漠第一泉，泉水随着时间的流逝越来越少。",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-6e9mi",
+          "src": "/uploads/web/1781588989276-e9498b4fd4-q82-2200-q72-1600.jpg",
+          "caption": "爬上鸣沙山，可以看到月牙泉全貌。",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-8wy5m",
+          "src": "/uploads/optimized/1781588989278-6ad1b0e19e-q82-2200.jpg",
+          "caption": "防沙治沙措施，远处爬上去可以看到月牙泉全貌，超级累",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-vm9ha",
+          "src": "/uploads/optimized/1781588989279-33688d9919-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg82vwy-ho5lr",
+          "src": "/uploads/web/1781588981249-4c7b26e789-q82-2200-q72-1600.jpg",
+          "caption": "楼兰干尸，4000年前的人类，面容也保存完好，特殊的地理以及环境导致，想看看埃及那边的木乃伊和这个是不是异曲同工之妙。",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 155
+        },
+        {
+          "id": "photo-mqg8324t-3y151",
+          "src": "/uploads/optimized/1781588989307-c8faedb820-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-6px2a",
+          "src": "/uploads/optimized/1781588989311-2f775d1b28-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82vwz-93igc",
+          "src": "/uploads/web/1781588981258-22c4b6093a-q82-2200-q72-1600.jpg",
+          "caption": "从这里进入喀纳斯，中国最深的内陆淡水湖之一，超级超级好看，像瑞士的感觉。冰川水，草甸，森林，牛羊群",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 133
+        },
+        {
+          "id": "photo-mqg8324t-ub0si",
+          "src": "/uploads/1781588989274-53d31df4b1.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-pt3yd",
+          "src": "/uploads/web/1781588989276-cd9d275c52-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-vq9o1",
+          "src": "/uploads/optimized/1781588973446-c68239b31d-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-9xiay",
+          "src": "/uploads/optimized/1781588973447-8e60d7efa3-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-oe4a8",
+          "src": "/uploads/optimized/1781588973448-ad0350cba9-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-7mmqp",
+          "src": "/uploads/optimized/1781588973449-0a8cda1978-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-4js14",
+          "src": "/uploads/optimized/1781588973465-9f4e823a0b-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-8r167",
+          "src": "/uploads/optimized/1781588973466-dd0e94fffe-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-jkvr9",
+          "src": "/uploads/1781588973468-617e891b8c.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82vwy-agj1m",
+          "src": "/uploads/web/1781588981239-8fb3bad660-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82vwy-awrcf",
+          "src": "/uploads/web/1781588981241-b0a2e94761-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82vwy-qs46q",
+          "src": "/uploads/web/1781588981242-f12085134d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-qzaq3",
+          "src": "/uploads/web/1781588989276-250e1494fa-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-wjp7p",
+          "src": "/uploads/web/1781588989279-cb221e7f4c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82vwz-72gu2",
+          "src": "/uploads/web/1781588981255-87cdcbf778-q82-2200-q72-1600.jpg",
+          "caption": "吐鲁番葡萄沟葡萄，超级甜，甜的像假的一样。路边随处可见土房子，都是用来风干葡萄干。",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqudongs-2blio",
+          "src": "/uploads/optimized/1782444921269-9885ec4bc3-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-5zsy8",
+          "src": "/uploads/optimized/1781588973467-3742646395-q82-2200.jpg",
+          "caption": "青海湖边，当地牧民自己养的马",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 96
+        },
+        {
+          "id": "photo-mqg82pwi-fym4c",
+          "src": "/uploads/web/1781588973469-d15e4de2dc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-fo4g4",
+          "src": "/uploads/optimized/1781588989298-34bf3b5f25-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqudowbl-fkd0y",
+          "src": "/uploads/web/1782444932758-dcaea671ff-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqudordt-nyvjt",
+          "src": "/uploads/web/1782444926364-3f6517a773-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg82pwi-0eyr3",
+          "src": "/uploads/web/1781588973471-7cb3ccd181-q82-2200-q72-1600.jpg",
+          "caption": "三辆车自驾途中的合照",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg82vwy-g582g",
+          "src": "/uploads/web/1781588981251-5814aa651f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-69apu",
+          "src": "/uploads/1781588989274-b106bf1775.jpg",
+          "caption": "自驾途中一些雅丹地貌",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-kr20d",
+          "src": "/uploads/optimized/1781588989315-45b6190d32-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-akqfa",
+          "src": "/uploads/web/1781588989275-fd8d630adb-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-jt5ig",
+          "src": "/uploads/optimized/1781588989309-92b556c75e-q82-2200.jpg",
+          "caption": "路边随处可见的动物",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8364i-2m1wt",
+          "src": "/uploads/optimized/1781588994475-ffa54bbcbb-q82-2200.jpg",
+          "caption": "青海湖",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8324t-e2iv9",
+          "src": "/uploads/web/1781588989275-53b313c9f1-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-yy1lz",
+          "src": "/uploads/optimized/1781588989316-1b8542c26f-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-8nnt0",
+          "src": "/uploads/optimized/1781588989319-b88bc644f2-q82-2200.jpg",
+          "caption": "青海湖附近的牦牛",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        },
+        {
+          "id": "photo-mqg8364i-84cp0",
+          "src": "/uploads/optimized/1781588994494-2d45d634af-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8324t-icyrj",
+          "src": "/uploads/web/1781588989277-86f56ddcbd-q72-1600.jpg",
+          "caption": "兰州，第一次在中国感受到时差，晚上9点前天还是亮的。大家庭旅游合照",
+          "cover": false,
+          "rotation": 0,
+          "captionHeight": 116
+        }
+      ],
+      "geo": {
+        "lat": 43.8256,
+        "lng": 87.6168
+      },
+      "travelTime": "2016.08"
+    },
+    {
+      "id": "taizhou",
+      "name": "台州",
+      "englishName": "Taizhou",
+      "country": "中国 · 浙江",
+      "color": "#5fae9b",
+      "visible": true,
+      "coords": {
+        "x": 78.85,
+        "y": 44.25
+      },
+      "cover": "/uploads/web/1781531614872-6502d65b8f-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": 16,
+        "y": -6
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "台州",
+          "text": "台州的第一段记忆，从抵达时的光开始。"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqf9xbq5-dy1wu",
+          "src": "/uploads/web/1781531614872-6502d65b8f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xlc9-5epfr",
+          "src": "/uploads/web/1781531627330-f65e3fe1c6-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-v1ql8",
+          "src": "/uploads/web/1781531635905-7e8e4c2f0f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-vnsdj",
+          "src": "/uploads/web/1781531635898-0d82dd1039-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-h1x2z",
+          "src": "/uploads/web/1781531642933-8921928b32-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-nwc40",
+          "src": "/uploads/web/1781531635911-6d10a89766-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-r3u50",
+          "src": "/uploads/web/1781531635915-932fca88c1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-q3jv5",
+          "src": "/uploads/web/1781531635893-a00f6fb0b3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xs1q-r1frb",
+          "src": "/uploads/web/1781531635921-a78b84ded8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-hfnc0",
+          "src": "/uploads/web/1781531642886-ba7be61160-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-kn217",
+          "src": "/uploads/web/1781531642894-e3d5218ae0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-a8uo7",
+          "src": "/uploads/web/1781531642935-3a3e52c812-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-2sw9c",
+          "src": "/uploads/optimized/1781531642924-fd0df2c4ca-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqf9xxdy-1ks8n",
+          "src": "/uploads/web/1781531642939-6236f492b1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 28.6564,
+        "lng": 121.4208
+      },
+      "travelTime": "2023.04"
+    },
+    {
+      "id": "qinhuangdao",
+      "name": "秦皇岛",
+      "englishName": "Qinhuangdao",
+      "country": "中国 · 河北",
+      "color": "#5d91a8",
+      "visible": false,
+      "coords": {
+        "x": 78.25,
+        "y": 39.75
+      },
+      "cover": "/uploads/web/1781531907760-d19458ffd4-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": 14,
+        "y": 22
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "秦皇岛",
+          "text": "秦皇岛的第一段记忆，从抵达时的光开始。"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqfa3lqo-4e43g",
+          "src": "/uploads/web/1781531907760-d19458ffd4-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-nu9xm",
+          "src": "/uploads/web/1781531907732-a01bbd4013-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-5haqs",
+          "src": "/uploads/web/1781531907734-aedb8d5311-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-3ek3n",
+          "src": "/uploads/web/1781531907736-1a4c0304d3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-836md",
+          "src": "/uploads/web/1781531907738-d4dd1cdbcc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-z53hb",
+          "src": "/uploads/web/1781531907770-4b9f1e715d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-gpih4",
+          "src": "/uploads/web/1781531907765-b2509982be-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-wvbei",
+          "src": "/uploads/web/1781531907762-c912d21e7b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-uj2bq",
+          "src": "/uploads/web/1781531907763-a2b1967d45-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 270
+        },
+        {
+          "id": "photo-mqfa3lqo-1nzw2",
+          "src": "/uploads/web/1781531907757-3fe162bb3a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-1fa4v",
+          "src": "/uploads/web/1781531907767-67581dc139-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-337iw",
+          "src": "/uploads/web/1781531907773-5a8c2a880a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-520c8",
+          "src": "/uploads/web/1781531907785-f67395731c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfa3lqo-yhnfj",
+          "src": "/uploads/web/1781531907787-c0fac0e1d3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 39.9354,
+        "lng": 119.5996
+      },
+      "travelTime": "2023.07"
+    },
+    {
+      "id": "chengdu",
+      "name": "成都",
+      "englishName": "Chengdu",
+      "country": "中国 · 四川",
+      "color": "#6f9b68",
+      "visible": true,
+      "coords": {
+        "x": 74.2,
+        "y": 44.7
+      },
+      "cover": "/uploads/web/1781589139100-1e0aa13cfc-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": -56,
+        "y": -18
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "成都",
+          "text": "成都的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "九寨沟",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "乐山",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        },
+        {
+          "id": "stage-mqfa8e2g-s64j0",
+          "name": "三星堆"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqg869pm-e0t9j",
+          "src": "/uploads/web/1781589139053-1e0ddb0207-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-li3rn",
+          "src": "/uploads/web/1781589139100-1e0aa13cfc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-vftop",
+          "src": "/uploads/web/1781589139055-b4186252bb-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-hlkyk",
+          "src": "/uploads/web/1781589139057-bd43655e94-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-wthgw",
+          "src": "/uploads/web/1781589139078-5e7466f8e0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-0ck56",
+          "src": "/uploads/web/1781589139098-4feee1df43-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-1602a",
+          "src": "/uploads/web/1781589139109-ddc785399d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-9wi1z",
+          "src": "/uploads/web/1781589147632-7e007b5f0b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-6hisu",
+          "src": "/uploads/web/1781589147635-75e3554c92-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 270
+        },
+        {
+          "id": "photo-mqg869pm-bqv9u",
+          "src": "/uploads/web/1781589139103-5da99e7f1a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-oiryd",
+          "src": "/uploads/web/1781589139086-39eeba1cc9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-ronu2",
+          "src": "/uploads/web/1781589147638-6b09e4ee76-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-sbrpe",
+          "src": "/uploads/web/1781589147640-3308f8e676-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-xxx0l",
+          "src": "/uploads/web/1781589139088-26372d2a2d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-e9rmr",
+          "src": "/uploads/web/1781589139091-a4a8c9a158-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg869pm-qzf8e",
+          "src": "/uploads/web/1781589139093-c3fe48dcef-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-9vv0m",
+          "src": "/uploads/web/1781589147652-05457ad3c0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-q23qr",
+          "src": "/uploads/web/1781589147659-717fc5a73a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-7qrk8",
+          "src": "/uploads/web/1781589147654-40f1c2a3a9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-660qt",
+          "src": "/uploads/web/1781589147662-35ab1f90b9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-eqxsk",
+          "src": "/uploads/web/1781589147664-531ae7dfd0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-eeann",
+          "src": "/uploads/web/1781589147657-a32419cb68-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-6ceu9",
+          "src": "/uploads/web/1781589147667-2422724934-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-3bolb",
+          "src": "/uploads/web/1781589147669-75e529fba6-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 180
+        },
+        {
+          "id": "photo-mqg86gbn-7aml1",
+          "src": "/uploads/web/1781589147671-721e1d0573-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 270
+        },
+        {
+          "id": "photo-mqg86gbn-lvzmq",
+          "src": "/uploads/web/1781589147673-b8222248e3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-e9wqe",
+          "src": "/uploads/web/1781589147674-0e1094d606-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-78gad",
+          "src": "/uploads/web/1781589147676-5d1e4f20cc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-4cezw",
+          "src": "/uploads/web/1781589147677-3e94aba62b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-2ei9g",
+          "src": "/uploads/web/1781589147678-93891b62ec-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 270
+        },
+        {
+          "id": "photo-mqg86gbn-5388g",
+          "src": "/uploads/web/1781589147680-8f2e7e7c3a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86kuy-0mnek",
+          "src": "/uploads/web/1781589153559-92b1a8c395-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86gbn-o87g8",
+          "src": "/uploads/web/1781589147681-3dda047055-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg86kuy-xsys5",
+          "src": "/uploads/web/1781589153558-242c181b4c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 30.5728,
+        "lng": 104.0668
+      },
+      "travelTime": "2024.02"
+    },
+    {
+      "id": "guiyang",
+      "name": "贵阳",
+      "englishName": "Guiyang",
+      "country": "中国 · 贵州",
+      "color": "#9aaa73",
+      "visible": true,
+      "coords": {
+        "x": 75.55,
+        "y": 47.45
+      },
+      "cover": "/uploads/web/1781589241010-6b41f4c35c-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": 14,
+        "y": 20
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "贵阳",
+          "text": "贵阳的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "荔波",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "从江肇庆侗寨",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqg88gcx-ihw34",
+          "src": "/uploads/web/1781589240999-d2b1e83aaa-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-cnkr8",
+          "src": "/uploads/web/1781589241010-6b41f4c35c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-nhc0y",
+          "src": "/uploads/web/1781589241012-95361b8633-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-1dnoq",
+          "src": "/uploads/web/1781589241014-b3c2b97ccb-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-5xtwu",
+          "src": "/uploads/web/1781589241016-5400761914-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-bw6ul",
+          "src": "/uploads/web/1781589241018-ef3d099200-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-uppso",
+          "src": "/uploads/web/1781589241021-9deac37efc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-1fzvy",
+          "src": "/uploads/web/1781589241029-e419bf4260-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-90vhm",
+          "src": "/uploads/web/1781589241025-c43248060e-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-ddnu8",
+          "src": "/uploads/web/1781589241027-b87127f905-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-mdt39",
+          "src": "/uploads/web/1781589241031-8498c54e0b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-o3tc3",
+          "src": "/uploads/web/1781589241033-eb0a139bbe-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-vmxcy",
+          "src": "/uploads/web/1781589241034-6f8972b88d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-sa6eo",
+          "src": "/uploads/web/1781589240998-0b765a3a4a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88l8b-767cv",
+          "src": "/uploads/web/1781589247309-9e5d383420-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-946sw",
+          "src": "/uploads/web/1781589241037-2033a0660c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88l8b-3wm0h",
+          "src": "/uploads/web/1781589247306-9c14764602-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88l8b-4wy84",
+          "src": "/uploads/web/1781589247349-069da7419d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88l8b-v1kul",
+          "src": "/uploads/web/1781589247308-82b97d4941-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-yp23u",
+          "src": "/uploads/web/1781589241023-8da03abd4a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-pk5u4",
+          "src": "/uploads/web/1781589241008-ed919ba457-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-gvete",
+          "src": "/uploads/web/1781589241006-6b22cf3141-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-7dbf4",
+          "src": "/uploads/web/1781589241000-7bbc84c815-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88gcx-wn3x8",
+          "src": "/uploads/web/1781589241009-44955d42b1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg88l8b-rqdas",
+          "src": "/uploads/web/1781589247352-1ee1569580-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 26.647,
+        "lng": 106.6302
+      },
+      "travelTime": "2024.11"
+    },
+    {
+      "id": "harbin",
+      "name": "哈尔滨",
+      "englishName": "Harbin",
+      "country": "中国 · 黑龙江",
+      "color": "#7eafcc",
+      "visible": true,
+      "coords": {
+        "x": 79.55,
+        "y": 35.9
+      },
+      "cover": "/uploads/web/1781589188243-66d8f9cc19-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": 14,
+        "y": -24
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "哈尔滨",
+          "text": "哈尔滨的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "漠河",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "齐齐哈尔",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        },
+        {
+          "id": "stage-mqgkrp4k-0yz1w",
+          "name": "横道河子"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqg87627-o9egi",
+          "src": "/uploads/web/1781589181014-55d3667829-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-v8tyn",
+          "src": "/uploads/web/1781589181002-aafb745e11-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqglsy5d-vsopc",
+          "src": "/uploads/web/1781612032221-1745c5934c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-mg4jw",
+          "src": "/uploads/web/1781589181017-b9dccc4cb1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-6gw4r",
+          "src": "/uploads/web/1781589181031-f3e02e2550-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-9u0ab",
+          "src": "/uploads/web/1781589188236-ba04a32d08-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-4skp1",
+          "src": "/uploads/web/1781589181020-d8386359e6-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-53b0n",
+          "src": "/uploads/web/1781589181023-69061199c2-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-2p6qh",
+          "src": "/uploads/web/1781589181025-692beabfd8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-o9g9q",
+          "src": "/uploads/web/1781589181030-b08fe9f21a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-oywta",
+          "src": "/uploads/web/1781589181028-76cc86190f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-2bj5x",
+          "src": "/uploads/web/1781589181026-095d773122-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-rsns8",
+          "src": "/uploads/web/1781589181033-26493a442f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-81av5",
+          "src": "/uploads/web/1781589181005-01d7488b59-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqglspkw-a7h33",
+          "src": "/uploads/web/1781612021088-828bcb4820-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-142hi",
+          "src": "/uploads/web/1781589188222-a584fea43c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-wphlm",
+          "src": "/uploads/web/1781589181034-5b4d7fbdb3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-x9s4h",
+          "src": "/uploads/web/1781589181036-a2598560aa-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-6lo55",
+          "src": "/uploads/web/1781589188218-77b54365a1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-xlvi8",
+          "src": "/uploads/web/1781589188220-9e00da9f4a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-i3orz",
+          "src": "/uploads/web/1781589188238-b59f6cef1c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87l6q-7z3d0",
+          "src": "/uploads/web/1781589200629-ac03b898d0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-mwnuk",
+          "src": "/uploads/web/1781589188255-3322cc5198-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-96x69",
+          "src": "/uploads/web/1781589188229-b978bab2a1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87627-j2cjo",
+          "src": "/uploads/web/1781589181016-8eb67e35ce-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-snf71",
+          "src": "/uploads/web/1781589188242-e621acfb01-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-rwukd",
+          "src": "/uploads/web/1781589188237-4bd7d30e15-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-dkf1e",
+          "src": "/uploads/web/1781589188240-cbb60fe993-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-86bon",
+          "src": "/uploads/web/1781589188233-5eeb92e204-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-7zo71",
+          "src": "/uploads/web/1781589188233-2c29639ac9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-v1z0q",
+          "src": "/uploads/web/1781589188231-9880674a6d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87l6q-v0wz0",
+          "src": "/uploads/web/1781589200638-7ff1a36e88-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqglsuky-pyyve",
+          "src": "/uploads/web/1781612027596-c538cb7b6f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-bx2lh",
+          "src": "/uploads/web/1781589188243-66d8f9cc19-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87bmr-mci5i",
+          "src": "/uploads/web/1781589188253-3b8b1ed63d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87l6q-kwubq",
+          "src": "/uploads/web/1781589200627-27fc43fa25-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87l6q-qr62b",
+          "src": "/uploads/web/1781589200630-a72a69929b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg87l6q-ea5ms",
+          "src": "/uploads/web/1781589200631-a276992515-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 45.8038,
+        "lng": 126.5349
+      },
+      "travelTime": "2025.02"
+    },
+    {
+      "id": "sanya",
+      "name": "三亚",
+      "englishName": "Sanya",
+      "country": "中国 · 海南",
+      "color": "#42b8b2",
+      "visible": true,
+      "coords": {
+        "x": 77.75,
+        "y": 53.25
+      },
+      "cover": "/uploads/web/1781532823787-f7f40fd2f8-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": 12,
+        "y": 34
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "三亚",
+          "text": "三亚的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "蜈支洲岛",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqfan8jq-ye9l8",
+          "src": "/uploads/web/1781532823787-f7f40fd2f8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-u4uti",
+          "src": "/uploads/web/1781532823788-d1ac9f9103-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-5gngn",
+          "src": "/uploads/web/1781532823748-98d9e9fc31-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-ebqa4",
+          "src": "/uploads/web/1781532823749-0e23cf9905-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-wc5ih",
+          "src": "/uploads/web/1781532823789-b1c8497614-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-5sfb2",
+          "src": "/uploads/web/1781532823795-00c1ec28a7-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-3663x",
+          "src": "/uploads/web/1781532823795-65a88644da-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgml3u1-knzwq",
+          "src": "/uploads/web/1781613345945-83543557b3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-53y17",
+          "src": "/uploads/web/1781532823797-dd4f5f318d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-vhs57",
+          "src": "/uploads/web/1781532823799-54a0f6b77f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgml3u1-6bhiw",
+          "src": "/uploads/web/1781613345937-ad8dfec78f-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgml3u1-nqtcs",
+          "src": "/uploads/web/1781613345905-939d51750b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgml3u1-u1f9a",
+          "src": "/uploads/web/1781613345953-1bcbaa8ba5-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaysnu-vhjxg",
+          "src": "/uploads/web/1781533363093-28a5774c30-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfan8jq-2tndn",
+          "src": "/uploads/web/1781532823800-ae8089ce89-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaynfx-yuq2e",
+          "src": "/uploads/web/1781533356294-05cb924f31-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaynfx-mrkze",
+          "src": "/uploads/web/1781533356316-62a0555844-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaynfx-dx97s",
+          "src": "/uploads/web/1781533356318-d3532edbb3-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaynfx-hdvo4",
+          "src": "/uploads/web/1781533356326-48b6542bbc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaysnu-179f8",
+          "src": "/uploads/optimized/1781533363058-a906df8a42-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaysnu-1tjzb",
+          "src": "/uploads/optimized/1781533363067-d1273be157-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqfaysnu-h9yff",
+          "src": "/uploads/optimized/1781533363090-7de55368d2-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 18.2528,
+        "lng": 109.5119
+      },
+      "travelTime": "2025.10"
+    },
+    {
+      "id": "yunnan",
+      "name": "云南",
+      "englishName": "Yunnan",
+      "country": "中国 · 云南",
+      "color": "#c1786f",
+      "visible": true,
+      "coords": {
+        "x": 74.35,
+        "y": 49.35
+      },
+      "cover": "/uploads/web/1781609240281-d5e9147774-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": -52,
+        "y": 18
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "大理",
+          "text": "云南的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "保山",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "芒市",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        },
+        {
+          "id": "stage-mqfapc6k-hf18l",
+          "name": "瑞丽"
+        },
+        {
+          "id": "stage-mqfapcvk-8ewp7",
+          "name": "腾冲"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqgk53vm-k3778",
+          "src": "/uploads/web/1781609240276-9fd8076856-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-hifrc",
+          "src": "/uploads/web/1781609248374-661f600839-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-rghv8",
+          "src": "/uploads/web/1781609240281-d5e9147774-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-iq4ot",
+          "src": "/uploads/web/1781609248376-7448266f5e-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-ap0m3",
+          "src": "/uploads/web/1781609240274-a528759c53-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-gqnlq",
+          "src": "/uploads/web/1781609240279-5097752c58-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-pieoa",
+          "src": "/uploads/web/1781609240280-d9c76e500d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-yh4sz",
+          "src": "/uploads/web/1781609248380-f7077ddd0a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-jqe5j",
+          "src": "/uploads/web/1781609257868-c824306ca1-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-pilih",
+          "src": "/uploads/web/1781609257863-52063e7ec4-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-3lqds",
+          "src": "/uploads/web/1781609257866-4c6f6cd1f4-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-411x9",
+          "src": "/uploads/optimized/1781609257870-cf1279eb0f-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-xbj59",
+          "src": "/uploads/web/1781609240278-67f3b8ce9a-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-xx6gb",
+          "src": "/uploads/web/1781609257873-5b6ac1a4de-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-h0hjv",
+          "src": "/uploads/web/1781609248382-4d85d47afc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-883rv",
+          "src": "/uploads/web/1781609248396-2604f874a9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-nc029",
+          "src": "/uploads/web/1781609240274-f848039722-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-vc4bc",
+          "src": "/uploads/web/1781609248402-80f9e8fbf8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-2u6ld",
+          "src": "/uploads/web/1781609248399-a9f618bad6-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-84wsf",
+          "src": "/uploads/web/1781609248400-008a10ee7b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-us4w8",
+          "src": "/uploads/web/1781609240272-26f3a7ab13-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-qo75r",
+          "src": "/uploads/web/1781609248404-63736276b8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5a55-pyzwj",
+          "src": "/uploads/web/1781609248406-20dd45b241-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-1qxsd",
+          "src": "/uploads/web/1781609257798-8f2ab7f62d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-nhmol",
+          "src": "/uploads/web/1781609257803-37ece00794-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-lhehp",
+          "src": "/uploads/web/1781609257839-5244a84097-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-l8bjr",
+          "src": "/uploads/web/1781609257842-4a24b1f850-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-7zo01",
+          "src": "/uploads/web/1781609257846-a9679d8dbd-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-u6x49",
+          "src": "/uploads/web/1781609257856-fe39ee54f0-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-j211a",
+          "src": "/uploads/web/1781609257854-0697eae852-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-ak1q0",
+          "src": "/uploads/web/1781609257851-b424a80c2e-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk5hg5-cejsc",
+          "src": "/uploads/web/1781609257860-7e5fcc3a38-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-o1cye",
+          "src": "/uploads/optimized/1781609240244-6ac3b8a233-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgk53vm-8ma28",
+          "src": "/uploads/web/1781609240252-d3f858ff8e-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": 25.0389,
+        "lng": 102.7183
+      },
+      "travelTime": "2026.02"
+    },
+    {
+      "id": "new-zealand",
+      "name": "新西兰",
+      "englishName": "New Zealand",
+      "country": "新西兰",
+      "color": "#689fc1",
+      "visible": true,
+      "coords": {
+        "x": 92.2,
+        "y": 80.8
+      },
+      "cover": "/uploads/web/1781589316963-c2839be2dc-q82-2200-q72-1600.jpg",
+      "labelOffset": {
+        "x": -4,
+        "y": 0
+      },
+      "stages": [
+        {
+          "id": "arrival",
+          "name": "奥克兰",
+          "text": "新西兰的第一段记忆，从抵达时的光开始。"
+        },
+        {
+          "id": "road",
+          "name": "基督城",
+          "text": "路上的风景慢慢展开，声音和颜色都被留下。"
+        },
+        {
+          "id": "memory",
+          "name": "Tekapo",
+          "text": "回看这一站，它已经成为世界碎片里的一块。"
+        },
+        {
+          "id": "stage-mqfashqx-titl0",
+          "name": "Wanaka"
+        },
+        {
+          "id": "stage-mqfaup1c-n3fo0",
+          "name": "皇后镇"
+        },
+        {
+          "id": "stage-mqfauxnh-3s1qg",
+          "name": "格雷茅斯"
+        },
+        {
+          "id": "stage-mqfavi1a-24d85",
+          "name": "蒂阿瑙"
+        },
+        {
+          "id": "stage-mqfaw092-411cf",
+          "name": "米尔福德"
+        }
+      ],
+      "photos": [
+        {
+          "id": "photo-mqg8a2zi-b9cf8",
+          "src": "/uploads/web/1781589317004-ffd74b9971-q82-2200-q72-1600.jpg",
+          "caption": "天空塔，年代久远了，很破旧，奥克兰市区最高点",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgn9k59-h9j16",
+          "src": "/uploads/web/1781614486833-f030e86d16-q82-2200-q72-1600.jpg",
+          "caption": "德文港看整个奥克兰天际线，原住民很nice 给我们指路，被德文港妖风吹的头发乱飞",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-y7u4h",
+          "src": "/uploads/web/1781589317007-7ea20a6424-q82-2200-q72-1600.jpg",
+          "caption": "凯库拉最高点，观景平台可以看到整个凯库拉全景。",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-ewvsx",
+          "src": "/uploads/web/1781589317016-f12d695c31-q82-2200-q72-1600.jpg",
+          "caption": "等待观鲸的途中看到的很有氛围感的照片",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-qz1bt",
+          "src": "/uploads/web/1781589317010-cb44e1e4a2-q82-2200-q72-1600.jpg",
+          "caption": "满满两船都在等待鲸鱼2次甩尾",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-lleb5",
+          "src": "/uploads/web/1781589317009-677ecb3e2c-q82-2200-q72-1600.jpg",
+          "caption": "经历了两个小时的观鲸，还向海里贡献了我的三文鱼早饭，最终终于看到鲸鱼甩尾，怎么都值得！！！",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-wqpfw",
+          "src": "/uploads/web/1781589323817-0b0523abef-q82-2200-q72-1600.jpg",
+          "caption": "吹着冷风吃到了凯库拉的大龙虾，吃完人身上冷冷的，仿佛没吃一样，终于知道鱼为什么一直进食，因为冷的食物真的和没吃一样，根本不是3秒记忆，纯饿的提供不了热量",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-zulzm",
+          "src": "/uploads/web/1781589323821-58010f5455-q82-2200-q72-1600.jpg",
+          "caption": "德文港看整个奥克兰天际线，原住民很nice 给我们指路，但是被德文港妖风吹的头发乱飞，",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqgnws2q-xono4",
+          "src": "/uploads/web/1781615570206-e6502f98b2-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-3vgrn",
+          "src": "/uploads/web/1781589323846-5278c54787-q82-2200-q72-1600.jpg",
+          "caption": "去往库克山的途中一直在下雨，虽然没有看到库克山，但是看到了彩虹，旅途中偶尔需要点小遗憾，才能心心念念，下次才会再一次到来",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-w7pws",
+          "src": "/uploads/web/1781589323847-1ade50ba29-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-e0bgm",
+          "src": "/uploads/web/1781589323852-6c89abcf4b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-87sid",
+          "src": "/uploads/web/1781589323855-75e03c0ca6-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-2yab3",
+          "src": "/uploads/web/1781589316964-7639be9d6e-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-6nu6w",
+          "src": "/uploads/web/1781589323851-a43a722626-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-k51mr",
+          "src": "/uploads/web/1781589323857-acf77be1de-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-cek73",
+          "src": "/uploads/web/1781589316970-5497f14cd9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-otvgo",
+          "src": "/uploads/web/1781589316974-37abe6f3ed-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-4w92o",
+          "src": "/uploads/web/1781589323862-8f4664a0cf-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-e59ns",
+          "src": "/uploads/web/1781589317001-d88287fe97-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-f1wkh",
+          "src": "/uploads/web/1781589334103-668b6b48f8-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-ncguq",
+          "src": "/uploads/web/1781589334108-586ee50dee-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a2zi-0a25d",
+          "src": "/uploads/web/1781589316963-c2839be2dc-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": true,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-53qs7",
+          "src": "/uploads/web/1781589334131-8620d04914-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-69y36",
+          "src": "/uploads/web/1781589334130-c4dbfbb770-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-15tgy",
+          "src": "/uploads/web/1781589334141-130f77d8c7-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-74w6d",
+          "src": "/uploads/web/1781589334142-4ce7c25184-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-05dvk",
+          "src": "/uploads/web/1781589334099-b84ba8226c-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-d4m2o",
+          "src": "/uploads/web/1781589334125-f4c956b5a5-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-piulq",
+          "src": "/uploads/web/1781589334102-ad03121152-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-o53to",
+          "src": "/uploads/web/1781589334118-8d7fe0a1ef-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-cx7s7",
+          "src": "/uploads/web/1781589334137-21024ee21b-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-3grt6",
+          "src": "/uploads/web/1781589334128-6f61343d41-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8ag78-3zzyq",
+          "src": "/uploads/web/1781589334145-74eefbdcc9-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8a89l-1ndoj",
+          "src": "/uploads/web/1781589323849-06fe7975f4-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-63vmt",
+          "src": "/uploads/web/1781589342937-40c571de3d-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-moa5b",
+          "src": "/uploads/optimized/1781589342949-c72009130f-q82-2200.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-5kjhp",
+          "src": "/uploads/web/1781589342952-d9f6f9a8cc-q82-2200-q72-1600.jpg",
+          "caption": "爬库克山的途中一直在下雨",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-a7oez",
+          "src": "/uploads/web/1781589342973-cfdc9b1ec2-q82-2200-q72-1600.jpg",
+          "caption": "去往库克山的途中一直在下雨",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-yvgbw",
+          "src": "/uploads/web/1781589342982-9a7c145081-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-kj62h",
+          "src": "/uploads/web/1781589342986-2154e4a333-q82-2200-q72-1600.jpg",
+          "caption": "",
+          "cover": false,
+          "rotation": 0
+        },
+        {
+          "id": "photo-mqg8an1a-q6lqe",
+          "src": "/uploads/web/1781589343001-39024f5537-q82-2200-q72-1600.jpg",
+          "caption": "去往库克山的途中一直在下雨，虽然没有看到库克山峰，但是看到了彩虹，还是很幸运",
+          "cover": false,
+          "rotation": 0
+        }
+      ],
+      "geo": {
+        "lat": -41.2865,
+        "lng": 174.7762
+      },
+      "travelTime": "2026.04"
+    }
+  ],
+  "map": {
+    "projection": "image-calibrated-equirectangular",
+    "bounds": {
+      "north": 108,
+      "south": -65,
+      "west": -190,
+      "east": 190
+    },
+    "calibration": {
+      "xOffset": 0,
+      "yOffset": 0,
+      "xScale": 1,
+      "yScale": 1
+    }
+  },
+  "footprints": {
+    "version": "1.0",
+    "title": "足迹",
+    "description": "足迹记录真实到访，碎片承载完整故事。",
+    "countries": [
+      {
+        "countryCode": "CN",
+        "countryName": "中国",
+        "englishName": "China",
+        "hasFootprint": true,
+        "enabled": true,
+        "themeColor": "#D8B36A",
+        "position": {
+          "x": 77.6,
+          "y": 45.8
+        },
+        "destinations": [
+          "xinjiang",
+          "taizhou",
+          "qinhuangdao",
+          "chengdu",
+          "guiyang",
+          "harbin",
+          "sanya",
+          "yunnan"
+        ],
+        "regions": [
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-XJ",
+            "regionName": "新疆",
+            "englishName": "Xinjiang",
+            "status": "collected",
+            "position": {
+              "x": 18,
+              "y": 28,
+              "w": 22,
+              "h": 15
+            },
+            "visitedCities": "乌鲁木齐、哈密、吐鲁番、阿勒泰地区",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "xinjiang",
+                "name": "新疆",
+                "date": "2016.08",
+                "title": "47 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-HLJ",
+            "regionName": "黑龙江",
+            "englishName": "Heilongjiang",
+            "status": "collected",
+            "position": {
+              "x": 78,
+              "y": 18,
+              "w": 19,
+              "h": 13
+            },
+            "visitedCities": "哈尔滨、齐齐哈尔、大兴安岭地区",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "harbin",
+                "name": "哈尔滨",
+                "date": "2025.02",
+                "title": "38 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-HE",
+            "regionName": "河北",
+            "englishName": "Hebei",
+            "status": "collected",
+            "position": {
+              "x": 67,
+              "y": 34,
+              "w": 17,
+              "h": 12
+            },
+            "visitedCities": "秦皇岛",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "qinhuangdao",
+                "name": "秦皇岛",
+                "date": "2023.07",
+                "title": "14 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-ZJ",
+            "regionName": "浙江",
+            "englishName": "Zhejiang",
+            "status": "collected",
+            "position": {
+              "x": 73,
+              "y": 56,
+              "w": 17,
+              "h": 12
+            },
+            "visitedCities": "温州、杭州、台州、宁波、嘉兴、湖州、绍兴、舟山、丽水",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "taizhou",
+                "name": "台州",
+                "date": "2023.04",
+                "title": "14 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-SC",
+            "regionName": "四川",
+            "englishName": "Sichuan",
+            "status": "collected",
+            "position": {
+              "x": 43,
+              "y": 58,
+              "w": 20,
+              "h": 14
+            },
+            "visitedCities": "成都、德阳、乐山、阿坝藏族羌族自治州",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "chengdu",
+                "name": "成都",
+                "date": "2024.02",
+                "title": "34 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-GZ",
+            "regionName": "贵州",
+            "englishName": "Guizhou",
+            "status": "collected",
+            "position": {
+              "x": 52,
+              "y": 70,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "贵阳、黔西南布依族苗族自治州、黔东南苗族侗族自治州",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "guiyang",
+                "name": "贵阳",
+                "date": "2024.11",
+                "title": "25 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-YN",
+            "regionName": "云南",
+            "englishName": "Yunnan",
+            "status": "collected",
+            "position": {
+              "x": 38,
+              "y": 76,
+              "w": 19,
+              "h": 13
+            },
+            "visitedCities": "保山、大理白族自治州、德宏傣族景颇族自治州",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "yunnan",
+                "name": "云南",
+                "date": "2026.02",
+                "title": "34 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-HI",
+            "regionName": "海南",
+            "englishName": "Hainan",
+            "status": "collected",
+            "position": {
+              "x": 64,
+              "y": 84,
+              "w": 15,
+              "h": 11
+            },
+            "visitedCities": "三亚",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "sanya",
+                "name": "三亚",
+                "date": "2025.10",
+                "title": "22 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-SN",
+            "regionName": "陕西",
+            "englishName": "Shaanxi",
+            "status": "collected",
+            "position": {
+              "x": 52,
+              "y": 47,
+              "w": 16,
+              "h": 11
+            },
+            "visitedCities": "西安",
+            "visitTime": "2016.08",
+            "destinations": [
+              {
+                "id": "xinjiang",
+                "name": "新疆",
+                "date": "2016.08",
+                "title": "47 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-GS",
+            "regionName": "甘肃",
+            "englishName": "Gansu",
+            "status": "collected",
+            "position": {
+              "x": 36,
+              "y": 40,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "兰州、张掖、嘉峪关、武威",
+            "visitTime": "2016.08",
+            "destinations": [
+              {
+                "id": "xinjiang",
+                "name": "新疆",
+                "date": "2016.08",
+                "title": "47 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-QH",
+            "regionName": "青海",
+            "englishName": "Qinghai",
+            "status": "collected",
+            "position": {
+              "x": 31,
+              "y": 53,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "西宁",
+            "visitTime": "2016.08",
+            "destinations": [
+              {
+                "id": "xinjiang",
+                "name": "新疆",
+                "date": "2016.08",
+                "title": "47 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-JS",
+            "regionName": "江苏",
+            "englishName": "Jiangsu",
+            "status": "visited",
+            "position": {
+              "x": 70,
+              "y": 50,
+              "w": 16,
+              "h": 11
+            },
+            "visitedCities": "南京、无锡、徐州、常州、苏州、南通、连云港、扬州、泰州、宿迁",
+            "visitTime": ""
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-GD",
+            "regionName": "广东",
+            "englishName": "Guangdong",
+            "status": "visited",
+            "position": {
+              "x": 63,
+              "y": 75,
+              "w": 16,
+              "h": 11
+            },
+            "visitedCities": "广州、佛山",
+            "visitTime": ""
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-SX",
+            "regionName": "山西",
+            "englishName": "Shanxi",
+            "status": "visited",
+            "position": {
+              "x": 24,
+              "y": 63,
+              "w": 20,
+              "h": 13
+            },
+            "visitedCities": "太原、大同、临汾",
+            "visitTime": ""
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-SH",
+            "regionName": "上海",
+            "englishName": "Shanghai",
+            "status": "visited",
+            "position": {
+              "x": 50,
+              "y": 50,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "上海",
+            "visitTime": ""
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-FJ",
+            "regionName": "福建",
+            "englishName": "Fujian",
+            "status": "visited",
+            "position": {
+              "x": 50,
+              "y": 50,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "厦门、漳州",
+            "visitTime": ""
+          },
+          {
+            "countryCode": "CN",
+            "regionCode": "CN-SD",
+            "regionName": "山东",
+            "englishName": "Shandong",
+            "status": "visited",
+            "position": {
+              "x": 50,
+              "y": 50,
+              "w": 18,
+              "h": 12
+            },
+            "visitedCities": "淄博、青岛、菏泽、聊城",
+            "visitTime": ""
+          }
+        ]
+      },
+      {
+        "countryCode": "NZ",
+        "countryName": "新西兰",
+        "englishName": "New Zealand",
+        "hasFootprint": true,
+        "enabled": true,
+        "themeColor": "#689fc1",
+        "position": {
+          "x": 92.2,
+          "y": 80.8
+        },
+        "destinations": [
+          "new-zealand"
+        ],
+        "regions": [
+          {
+            "countryCode": "NZ",
+            "regionCode": "NZ-AUK",
+            "regionName": "奥克兰",
+            "englishName": "Auckland",
+            "status": "collected",
+            "position": {
+              "x": 58,
+              "y": 22,
+              "w": 20,
+              "h": 12
+            },
+            "visitedCities": "",
+            "visitTime": "2026.04",
+            "destinations": [
+              {
+                "id": "new-zealand",
+                "name": "新西兰",
+                "date": "2026.04",
+                "title": "42 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "NZ",
+            "regionCode": "NZ-CAN",
+            "regionName": "坎特伯雷",
+            "englishName": "Canterbury",
+            "status": "collected",
+            "position": {
+              "x": 52,
+              "y": 58,
+              "w": 22,
+              "h": 14
+            },
+            "visitedCities": "Kaikōura District、Christchurch City",
+            "visitTime": "",
+            "destinations": [
+              {
+                "id": "new-zealand",
+                "name": "新西兰",
+                "date": "2026.04",
+                "title": "42 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "NZ",
+            "regionCode": "NZ-OTA",
+            "regionName": "奥塔哥",
+            "englishName": "Otago",
+            "status": "collected",
+            "position": {
+              "x": 46,
+              "y": 75,
+              "w": 20,
+              "h": 12
+            },
+            "visitedCities": "",
+            "visitTime": "2026.04",
+            "destinations": [
+              {
+                "id": "new-zealand",
+                "name": "新西兰",
+                "date": "2026.04",
+                "title": "42 张碎片"
+              }
+            ]
+          },
+          {
+            "countryCode": "NZ",
+            "regionCode": "NZ-STL",
+            "regionName": "南地",
+            "englishName": "Southland",
+            "status": "collected",
+            "position": {
+              "x": 50,
+              "y": 88,
+              "w": 18,
+              "h": 10
+            },
+            "visitedCities": "",
+            "visitTime": "2026.04",
+            "destinations": [
+              {
+                "id": "new-zealand",
+                "name": "新西兰",
+                "date": "2026.04",
+                "title": "42 张碎片"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+

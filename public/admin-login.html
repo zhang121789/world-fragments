@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>后台登录</title>
+    <link rel="stylesheet" href="/styles.css?v=205">
+  </head>
+  <body class="admin-body">
+    <main class="admin-login-view">
+      <form class="admin-login-card" id="adminLoginForm">
+        <p class="eyebrow">Local Admin</p>
+        <h1>后台登录</h1>
+        <label class="field">
+          <span>后台密码</span>
+          <input id="adminPassword" type="password" autocomplete="current-password" autofocus>
+        </label>
+        <button class="primary-action" type="submit">进入后台</button>
+        <p class="admin-login-message" id="adminLoginMessage" role="status"></p>
+      </form>
+    </main>
+    <script src="/admin-login.js?v=2" defer></script>
+  </body>
+</html>

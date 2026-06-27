@@ -1,0 +1,12 @@
+{
+  "name": "world-fragments-local",
+  "version": "1.0.0",
+  "description": "世界碎片个人旅行回忆网站，本地 Node.js 版本。",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

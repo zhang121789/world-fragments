@@ -1,0 +1,13 @@
+node_modules/
+npm-debug.log*
+
+# Local photo originals and backups should not be committed.
+照片/
+backup-original-uploads-*/
+*.bak
+data/site.json.bak-*
+data/auth.json
+
+# Windows/macOS noise.
+Thumbs.db
+.DS_Store
