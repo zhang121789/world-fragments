@@ -20,6 +20,10 @@ function sitePath(value) {
   return siteBasePath ? `${siteBasePath}/${clean}` : `/${clean}`;
 }
 
+function adminHref() {
+  return isStaticPagesMode ? sitePath("/admin/") : "/admin";
+}
+
 function normalizeStaticMediaUrl(value) {
   if (typeof value !== "string") return value;
   if (value.startsWith("/assets/") || value.startsWith("/uploads/")) return publicPath(value);
@@ -382,7 +386,7 @@ function showHome() {
           <nav class="topnav" aria-label="主导航">
             <a href="#map">碎片</a>
             <a href="#footprints">足迹</a>
-            <a href="/admin">后台</a>
+            <a href="${adminHref()}">后台</a>
           </nav>
         </header>
         <div class="map-backdrop"></div>
@@ -431,7 +435,7 @@ function showMapPicker() {
           <nav class="topnav" aria-label="主导航">
             <a href="#map">碎片</a>
             <a href="#footprints">足迹</a>
-            <a href="/admin">后台</a>
+            <a href="${adminHref()}">后台</a>
           </nav>
         </header>
         <button class="fragment-back-home" data-home aria-label="返回地图">
@@ -690,7 +694,7 @@ function showFootprintWorld() {
           <nav class="footprints-nav" aria-label="主导航">
             <a href="#map">碎片</a>
             <a href="#footprints" aria-current="page">足迹</a>
-            <a href="/admin">后台</a>
+            <a href="${adminHref()}">后台</a>
           </nav>
         </header>
         <div class="footprints-dashboard-body">
@@ -2046,7 +2050,7 @@ function showHome() {
           <nav class="topnav cover-nav cinematic-home-nav" aria-label="主导航">
             <a href="#map">碎片</a>
             <a href="#footprints">足迹</a>
-            <a href="/admin">后台</a>
+            <a href="${adminHref()}">后台</a>
           </nav>
         </header>
         <div class="home-copy cinematic-home-copy">
@@ -2567,7 +2571,7 @@ loadSite()
       <main class="error-view">
         <h1>网站数据没有读到</h1>
         <p>${escapeHtml(error.message)}</p>
-        <a href="/admin">打开后台检查</a>
+        <a href="${adminHref()}">打开后台检查</a>
       </main>
     `;
   });

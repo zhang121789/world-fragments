@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>世界碎片后台</title>
+    <link rel="stylesheet" href="../public/styles.css?v=437">
+    <style>
+      body {
+        min-height: 100vh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        background: #030505;
+        color: #e8e1d3;
+        font-family: "Noto Sans SC", "Microsoft YaHei", Arial, sans-serif;
+      }
+
+      .static-admin-note {
+        width: min(560px, calc(100vw - 40px));
+        border: 1px solid rgba(200, 169, 106, 0.28);
+        border-radius: 18px;
+        padding: 34px;
+        background: rgba(255, 255, 255, 0.035);
+        box-shadow: 0 24px 80px rgba(0, 0, 0, 0.42);
+      }
+
+      .static-admin-note small {
+        color: #c8a96a;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+
+      .static-admin-note h1 {
+        margin: 14px 0 16px;
+        font-size: 34px;
+        font-weight: 500;
+      }
+
+      .static-admin-note p {
+        margin: 0 0 12px;
+        color: rgba(232, 225, 211, 0.72);
+        line-height: 1.85;
+      }
+
+      .static-admin-actions {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 26px;
+      }
+
+      .static-admin-actions a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 42px;
+        padding: 0 20px;
+        border: 1px solid rgba(200, 169, 106, 0.45);
+        border-radius: 999px;
+        color: #d8c58a;
+        text-decoration: none;
+        background: rgba(200, 169, 106, 0.08);
+      }
+
+      .static-admin-actions a.secondary {
+        border-color: rgba(255, 255, 255, 0.16);
+        color: rgba(232, 225, 211, 0.72);
+        background: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="static-admin-note">
+      <small>Local Admin</small>
+      <h1>线上展示版不能直接进入后台</h1>
+      <p>GitHub Pages 只能托管静态网页，没有 Node 服务，所以无法运行登录、上传图片、保存数据这些后台功能。</p>
+      <p>需要修改网站内容时，请在电脑本地打开项目，运行本地服务后访问 <strong>http://localhost:3000/admin</strong>。</p>
+      <div class="static-admin-actions">
+        <a href="../">返回首页</a>
+        <a class="secondary" href="../#footprints">查看足迹</a>
+      </div>
+    </main>
+  </body>
+</html>
